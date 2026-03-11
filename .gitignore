@@ -5,6 +5,15 @@ __pycache__/
 *.pyd
 .Python
 
+# Project notes / brief (not for repo)
+project_notes.md
+Final Proj-Classify Waste Products Using TL FT.md
+
+
+*.pyo
+*.pyd
+.Python
+
 # Virtual environments
 venv/
 env/
