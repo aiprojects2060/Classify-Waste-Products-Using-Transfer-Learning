@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.env
+*.env
+
+# Keras / TF model files (too large for GitHub)
+*.keras
+*.h5
+*.pb
+
+# Dataset (auto-downloaded by the app)
+o-vs-r-split/
+data.zip
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
